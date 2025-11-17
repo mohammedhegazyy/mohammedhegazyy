@@ -1,11 +1,8 @@
-<h2 align="center">💫 About Me</h2>
+## 💫 About Me
 
-<p align="center">
-Hi, I'm <strong>Mohammed</strong> — a Software Engineer who builds scalable web and mobile applications 
-using modern tools like <strong>React, Next.js, Flutter, Node.js, and Docker</strong>.<br>
-I’m passionate about <strong>clean architecture</strong>, <strong>performance optimization</strong>, 
-and <strong>CI/CD automation</strong>.
-</p>
+Software Engineer focused on building **fast, scalable, and reliable applications** across web and mobile.  
+I work mainly with **React, Next.js, Flutter, Node.js, Docker**, and I love improving systems through  
+**clean architecture**, **performance optimization**, and **CI/CD automation**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
