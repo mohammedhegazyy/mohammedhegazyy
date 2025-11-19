@@ -85,6 +85,8 @@ I work mainly with **React, Next.js, Flutter, Node.js, Docker**, and I love impr
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedhegazyy&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohammedhegazyy&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
