@@ -87,9 +87,7 @@ I work mainly with **React, Next.js, Flutter, Node.js, Docker**, and I love impr
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhegazyy&layout=compact&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammedhegazyy&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohammedhegazyy&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
