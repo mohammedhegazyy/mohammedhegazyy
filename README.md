@@ -1,8 +1,8 @@
 ## 💫 About Me
 
-Software Engineer passionate about creating **high-quality digital experiences**.  
-I care about clean architecture, strong engineering practices, and building systems that scale.  
-Continuously learning and experimenting with new technologies to stay ahead and improve my craft.
+Software Engineer focused on building **scalable, reliable, and user-centric applications** across web and mobile.  
+I enjoy designing systems that are clean, maintainable, and optimized for performance.  
+Always exploring and learning new technologies to grow and improve every day.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
