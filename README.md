@@ -1,8 +1,8 @@
 ## 💫 About Me
 
-Software Engineer focused on building **fast, scalable, and reliable applications** across web and mobile.  
-I work mainly with **React, Next.js, Flutter, Node.js, Docker**, and I love improving systems through  
-**clean architecture**, **performance optimization**, and **CI/CD automation**.
+Software Engineer passionate about creating **high-quality digital experiences**.  
+I care about clean architecture, strong engineering practices, and building systems that scale.  
+Continuously learning and experimenting with new technologies to stay ahead and improve my craft.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
