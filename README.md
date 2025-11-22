@@ -5,20 +5,10 @@ I enjoy designing systems that are clean, maintainable, and optimized for perfor
 Always exploring and learning new technologies to grow and improve every day.
 
 ## 🌐 Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-mamdouh-431341234">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Mohammedhegazy655@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mohammedhegazyy.github.io/My-portofolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/mohammedhegazyy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedhegazy655@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammedhegazyy.github.io/My-portofolio/)
 
 ## 💻 Tech Stack
 
