@@ -92,18 +92,17 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="">
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=mohammedhegazyy&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhegazyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhegazyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="mohammedhegazyy" /></p>
 
 </div>
 
 ---
 
+
 ### 💭 Dev Wisdom
-<div align="center">
+<div align="">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
