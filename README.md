@@ -90,13 +90,25 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhegazyy&layout=compact&theme=tokyonight)
+## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohammedhegazyy&theme=tokyonight)
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=mohammedhegazyy&theme=tokyonight&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhegazyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+---
+
+### 💭 Dev Wisdom
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammedhegazyy&icon=1&color=3)](https://visitcount.itsvg.in)
