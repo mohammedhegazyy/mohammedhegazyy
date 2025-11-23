@@ -1,9 +1,12 @@
 ## 💫 About Me
 
-Software Engineer focused on building **scalable, reliable, and user-centric applications** across web and mobile.  
-I enjoy designing systems that are clean, maintainable, and optimized for performance.  
-Always exploring and learning new technologies to grow and improve every day.
+Full-stack Software Engineer specializing in **scalable web and mobile solutions** that prioritize performance, maintainability, and exceptional user experiences.
 
+I thrive at the intersection of architecture and implementation—whether it's designing robust backend systems, crafting intuitive interfaces, or optimizing CI/CD pipelines. My approach combines clean code principles with pragmatic problem-solving to deliver systems that are both elegant and production-ready.
+
+Currently exploring **cloud-native architectures** and **modern DevOps practices** while continuously expanding my technical toolkit.
+
+💡 Open to collaboration on innovative projects and always excited to discuss system design, performance optimization, or emerging technologies.
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
