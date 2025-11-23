@@ -7,7 +7,8 @@ I thrive at the intersection of architecture and implementation—whether it's d
 Currently exploring **cloud-native architectures** and **modern DevOps practices** while continuously expanding my technical toolkit.
 
 💡 Open to collaboration on innovative projects and always excited to discuss system design, performance optimization, or emerging technologies.
-## 🌐 Socials
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedhegazy655@gmail.com)
