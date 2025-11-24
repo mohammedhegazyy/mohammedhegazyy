@@ -94,6 +94,8 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="">
