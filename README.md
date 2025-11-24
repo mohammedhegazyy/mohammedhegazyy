@@ -2,17 +2,21 @@
 
 Full-stack Software Engineer specializing in **scalable web and mobile solutions** that prioritize performance, maintainability, and exceptional user experiences.
 
-I thrive at the intersection of architecture and implementation—whether it's designing robust backend systems, crafting intuitive interfaces, or optimizing CI/CD pipelines. My approach combines clean code principles with pragmatic problem-solving to deliver systems that are both elegant and production-ready.
+I thrive at the intersection of architecture and implementation whether it's designing robust backend systems, crafting intuitive interfaces, or optimizing CI/CD pipelines. My approach combines clean code principles with pragmatic problem-solving to deliver systems that are both elegant and production-ready.
 
 Currently exploring **cloud-native architectures** and **modern DevOps practices** while continuously expanding my technical toolkit.
 
 💡 Open to collaboration on innovative projects and always excited to discuss system design, performance optimization, or emerging technologies.
+
+---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedhegazy655@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammedhegazyy.github.io/My-portofolio/)
+
+---
 
 ## 💻 Tech Stack
 
