@@ -113,11 +113,9 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 
 ---
 
-### 💭 Dev Wisdom
-<div align="">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+## 💭 Dev Wisdom
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
