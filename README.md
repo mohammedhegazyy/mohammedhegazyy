@@ -97,7 +97,6 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="">
   <img 
     height="180em"
@@ -114,7 +113,6 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 
 ---
 
-
 ### 💭 Dev Wisdom
 <div align="">
   
@@ -122,8 +120,4 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 
 </div>
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=mohammedhegazyy&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
