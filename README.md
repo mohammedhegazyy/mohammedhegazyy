@@ -95,7 +95,7 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="">
   <img 
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhegazyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
