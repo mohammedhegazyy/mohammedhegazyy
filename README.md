@@ -58,7 +58,6 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 ### 📱 Mobile Developement
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
@@ -95,7 +94,6 @@ Currently exploring **cloud-native architectures** and **modern DevOps practices
 ---
 
 ### 🎨 Collaboration & Design
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
