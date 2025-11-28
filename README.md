@@ -42,6 +42,7 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+
 ---
 
 ### ⚙️ Backend
