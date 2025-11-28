@@ -11,7 +11,7 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 My Socials 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedhegazy655@gmail.com)
