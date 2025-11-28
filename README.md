@@ -4,7 +4,6 @@
 Hi 👋🏻 I am Mohammed Mamdouh a Full-stack Software Engineer specializing in **scalable web and mobile solutions** that prioritize performance, maintainability, and exceptional user experiences.
 
 I thrive at the intersection of architecture and implementation whether it's designing robust backend systems, crafting intuitive interfaces, or optimizing CI/CD pipelines. My approach combines clean code principles with pragmatic problem-solving to deliver systems that are both elegant and production-ready.
-
 Currently exploring **cloud architectures** and **modern DevOps practices** while continuously expanding my technical toolkit.
 
 💡 Open to collaboration on innovative projects and always excited to discuss system design, performance optimization, or emerging technologies.
