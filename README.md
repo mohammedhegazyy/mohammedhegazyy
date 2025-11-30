@@ -104,7 +104,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <br/><br/>
    <img 
     height="180em"
     src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedhegazyy&theme=tokyo-night"
