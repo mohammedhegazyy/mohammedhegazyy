@@ -104,11 +104,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhegazyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
   <br/><br/>
    <img 
     height="180em"
