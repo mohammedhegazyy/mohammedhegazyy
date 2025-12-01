@@ -9,7 +9,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 
 💡 Open to collaboration on innovative projects and always excited to discuss system design, performance optimization, or emerging technologies.
 
-
 ---
 
 ## 🌐 Socials 
