@@ -18,7 +18,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white)](https://mohammedhegazyy.github.io/My-portofolio/)
 
 ---
-
 ## 💻 Tech Stack
 
 ### 🧰 Languages
