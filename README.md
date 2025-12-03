@@ -10,6 +10,7 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 💡 Open to collaboration on innovative projects and always excited to discuss system design, performance optimization, or emerging technologies.
 
 ---
+
 ## 🌐 Socials 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
