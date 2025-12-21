@@ -89,6 +89,7 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ### 🧪 Testing & Quality
+
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
