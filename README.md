@@ -53,7 +53,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ### 📱 Mobile Developement
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
