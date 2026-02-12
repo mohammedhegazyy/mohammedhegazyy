@@ -1,6 +1,7 @@
 ---
 
 ## 💫 About Me
+
 Hi 👋🏼 I am Mohammed Mamdouh a Full-stack Software Engineer specializing in **scalable web and mobile solutions** that prioritize performance, maintainability, and exceptional user experiences.
 
 I thrive at the intersection of architecture and implementation whether it's designing robust backend systems, crafting intuitive interfaces, or optimizing CI/CD pipelines. My approach combines clean code principles with pragmatic problem-solving to deliver systems that are both elegant and production-ready.
@@ -11,6 +12,7 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ## 🌐 Socials 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedhegazy655@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white)](https://mohammedhegazyy.github.io/My-portofolio/)
@@ -18,6 +20,7 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ## 💻 Tech Stack
+
 ### 🧰 Languages
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -69,6 +72,7 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ### 🚀 DevOps & Infrastructure
+
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -79,12 +83,18 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ### 🧪 Testing & Quality
+
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
 ### 🔐 Authentication & Security
+
+
+
+
+
 ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauth&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-5A67D8?style=for-the-badge&logo=clerk&logoColor=white)
