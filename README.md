@@ -1,7 +1,6 @@
 ---
 
 ## 💫 About Me
-
 Hi 👋🏼 I am Mohammed Mamdouh a Full-stack Software Engineer specializing in **scalable web and mobile solutions** that prioritize performance, maintainability, and exceptional user experiences.
 
 I thrive at the intersection of architecture and implementation whether it's designing robust backend systems, crafting intuitive interfaces, or optimizing CI/CD pipelines. My approach combines clean code principles with pragmatic problem-solving to deliver systems that are both elegant and production-ready.
@@ -12,7 +11,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ## 🌐 Socials 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mamdouh-431341234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedhegazy655@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white)](https://mohammedhegazyy.github.io/My-portofolio/)
@@ -20,7 +18,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ## 💻 Tech Stack
-
 ### 🧰 Languages
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
