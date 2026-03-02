@@ -108,7 +108,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
    <img 
     height="180em"
