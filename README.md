@@ -22,7 +22,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ## 💻 Tech Stack
 
 ### 🧰 Languages
-
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
