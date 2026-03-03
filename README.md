@@ -102,7 +102,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
    <img 
     height="180em"
@@ -114,7 +113,6 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ---
 
 ## 💭 Dev Wisdom
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
