@@ -52,6 +52,7 @@ Currently exploring **cloud architectures** and **modern DevOps practices** whil
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6db33f.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ---
 
